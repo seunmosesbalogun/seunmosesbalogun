@@ -1,6 +1,6 @@
 # hello! I'm seunmosesbalogun interested in becoming a better programmer
 # 👀 I’m interested in becoming a software engineer 
-#🌱 I’m currently learning alx software engineering 
+# 🌱 I’m currently learning alx software engineering 
 # 💞️ I’m looking to collaborate on projects that changes humanity 
 # 📫 How to reach me. you can reach me on my email optimuscreed.14@gmail.com
 
